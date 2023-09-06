@@ -31,7 +31,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: [Github](https://github.com/Mozzie455/qr-code.git)
-- Live Site URL: [vercel](https://your-live-site-url.com)
+- Live Site URL: [vercel](https://deployment-gules.vercel.app/)
 
 ## My process
 
